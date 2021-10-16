@@ -34,7 +34,7 @@ int main() {
             printf("123%c45%c67%c8%c9=100\n", c1, c2, c3, c4);
             break;
         } else if (v != target && x == 15)
-            printf("impossible");
+            printf("impossible\n");
     }
     return 0;
 }
